@@ -28,7 +28,7 @@ body {
 
 
 a{color: #002199; text-decoration:none;}
-a.current{color: #FFCC00;}
+a.current{color: #7dbcd1;}
 a.current:hover{color: #E43D30;}
 a:hover{color: #E43D30;}
 a:active{color: #e82945;}
@@ -125,7 +125,7 @@ th,td{
     /* text-shadow: -0.5px -0.5px 0 #000, 0.5px -0.5px 0 #000, -0.5px 0.5px 0 #000, 0.5px 0.5px 0 #000, 0.5px 0.5px 1px #c0c0c0; */
 }
 .title2 {
-    color: #FFCC00;
+    color: #7dbcd1;
     /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 3px #c0c0c0; */
 }
 .year{color: #505050; font-size:0.67em; font-weight: lighter;}
@@ -285,7 +285,7 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 
 .navbar {
     width: 100%;
-    background-color: #FFCC00; /* Yellow background */
+    background-color: #7dbcd1; /* Yellow background */
     margin: 0;
     padding: 0.25em 0; /* Adjust as needed for a thinner look */
     display: flex;         /* Turn navbar into a flex container */
