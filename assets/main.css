@@ -29,8 +29,8 @@ body {
 
 a{color: #002199; text-decoration:none;}
 a.current{color: #7dbcd1;}
-a.current:hover{color: #E43D30;}
-a:hover{color: #E43D30;}
+a.current:hover{color: #051d3d;}
+a:hover{color: #051d3d;}
 a:active{color: #e82945;}
 h1,h2,h3,h4{clear:left; color: #002199; margin:1.5em 0em 1em 0em; font-family: 'Futura', sans-serif; /*text-shadow: 1px 1px 2px #d0d0d0;*/}
 h1{font-size:2.67em;}
@@ -321,7 +321,7 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 }
 
 .navigation a:hover {
-    color: #E43D30;
+    color: #051d3d;
 }
 
 /* Styles for Important Dates table */
